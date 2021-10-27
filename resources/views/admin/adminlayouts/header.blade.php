@@ -5,7 +5,7 @@
                 <div class="b-bg">
                     <i class="feather"></i>
                 </div>
-                <span class="b-title">AMS</span>
+                <span class="b-title">Danao Technological College</span>
             </a>
             <a class="mobile-menu" id="mobile-collapse" href="javascript:"><span></span></a>
         </div>
@@ -62,7 +62,7 @@
         </div>
     </div>
 </nav>
-<!-- [ Header ] start -->
+
 <header class="navbar pcoded-header navbar-expand-lg navbar-light">
     <div class="m-header">
         <a class="mobile-menu" id="mobile-collapse1" href="javascript:"><span></span></a>
@@ -101,7 +101,7 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right profile-notification">
                         <div class="pro-head" >
-                            <!-- <img src="assets/images/user/avatar-1.jpg" class="img-radius" alt="User-Profile-Image"> -->
+                        
                             <span>{{ Auth::user()->name }}</span>
                             <a class="dud-logout" href="{{ route('logout') }}"
                                 onclick="event.preventDefault();
@@ -120,4 +120,3 @@
         </ul>
     </div>
 </header>
-<!-- [ Header ] end -->

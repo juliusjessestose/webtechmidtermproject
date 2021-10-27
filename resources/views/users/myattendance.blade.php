@@ -3,7 +3,6 @@
 
 
 <div class="container d-flex justify-content-center">
-    <!--table to showcase attendance data-->
 
     <div class="card col-md-12">
       <div class="card-body">

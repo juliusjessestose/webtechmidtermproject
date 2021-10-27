@@ -3,7 +3,7 @@
   <h2>
   <i class="feather"></i>
   
-  AMS
+  Danao Technological College 
 </a>
 </h2>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,10 +19,10 @@
       <a class="nav-link" href="index">Home <span class="sr-only">(current)</span></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="myattendance">My Attendance</a>
+      <a class="nav-link" href="myattendance">Attendance</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="myleaves">My Leaves</a>
+      <a class="nav-link" href="myleaves">Leaves</a>
     </li>
   </ul>
   <ul class="navbar-nav ml-auto  float-right">
@@ -47,7 +47,7 @@
                         </div>
                        <a href="settings">
                        <div class="pro-body text-center">
-                            <!-- <img src="images/user/avatar-1.jpg" class="img-radius" alt="User-Profile-Image"> -->
+                          
                             Account settings
                                       </div>
                                     </a>
